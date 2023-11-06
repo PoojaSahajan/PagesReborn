@@ -28,7 +28,7 @@ function Posts() {
               <p className="name"> YAMAHA R15V3</p>
             </div>
             <div className="date">
-              <span>Tue May 04 2021</span>
+              <span>Tue Nov 04 2023</span>
             </div>
           </div>
         </div>
@@ -51,7 +51,7 @@ function Posts() {
               <p className="name"> YAMAHA R15V3</p>
             </div>
             <div className="date">
-              <span>10/5/2021</span>
+              <span>4/11/2023</span>
             </div>
           </div>
         </div>

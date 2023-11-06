@@ -13,12 +13,12 @@
 }
 .heading :first-child {
   font-size: 24px;
-  color: #002f34;
+  color: #2f0034;
 }
 
 .heading :last-child {
   font-size: 14px;
-  color: #002f34;
+  color: #2f0034;
 }
 
 .recommendations .cards {
@@ -83,5 +83,5 @@
 
 .recommendations .heading span {
   font-size: 24px;
-  color: #002f34;
+  color: #2f0034;
 }

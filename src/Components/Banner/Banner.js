@@ -1,6 +1,7 @@
 import React from 'react';
 
 import './Banner.css';
+import Logo from '../../booksBanner.jpg';
 import Arrow from '../../assets/Arrow'
 function Banner() {
   return (
@@ -12,19 +13,19 @@ function Banner() {
             <Arrow></Arrow> 
           </div>
           <div className="otherQuickOptions">
-            <span>Cars</span>
-            <span>Motorcy...</span>
-            <span>Mobile Ph...</span>
-            <span>For Sale:Houses & Apart...</span>
-            <span>Scoot...</span>
-            <span>Commercial & Other Ve...</span>
-            <span>For Rent: House & Apart...</span>
+            <span>Fiction</span>
+            <span>Non Fiction</span>
+            <span>Reference Books</span>
+            <span>Notes</span>
+            <span>Lab Manuals</span>
+            <span>Competitive Books</span>
+            <span>For Rent</span>
           </div>
         </div>
         <div className="banner">
           <img
-            src="../../../Images/banner copy.png"
-            alt=""
+            src={Logo}
+            alt="bookpic"
           />
         </div>
       </div>
